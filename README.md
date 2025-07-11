@@ -62,7 +62,7 @@ Countries like Trinidad & Tobago and Saudi Arabia top the per capita CO₂ list 
 
 ---
 
-## 💼 Outcome
+## 💼 OUTCOME
 
 This project helped visualize the trade-offs between agricultural growth and carbon emissions, offering a framework to identify **climate-smart agricultural models**. It provides a valuable tool for sustainability advocates, policy analysts, and agribusiness stakeholders seeking to promote food security without increasing environmental costs.
 
