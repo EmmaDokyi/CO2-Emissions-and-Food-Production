@@ -62,13 +62,6 @@ Countries like Trinidad & Tobago and Saudi Arabia top the per capita CO₂ list 
 
 ---
 
-## 📈 Dashboard Preview
-
-> *Interactive Power BI dashboard includes regional filters, dual-axis visuals, and trend lines for undernourishment, emissions, and efficiency metrics.*  
-> *(Insert link or screenshot placeholder here)*
-
----
-
 ## 💼 Outcome
 
 This project helped visualize the trade-offs between agricultural growth and carbon emissions, offering a framework to identify **climate-smart agricultural models**. It provides a valuable tool for sustainability advocates, policy analysts, and agribusiness stakeholders seeking to promote food security without increasing environmental costs.
