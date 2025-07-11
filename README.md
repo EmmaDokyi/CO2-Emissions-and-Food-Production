@@ -61,6 +61,7 @@ Africa’s undernourishment fell from ~25% to ~20%, while Asia made stronger pro
 Countries like Trinidad & Tobago and Saudi Arabia top the per capita CO₂ list but are not major food producers, suggesting a need for emission accountability in non-agricultural sectors as well.
 
 Overall, the findings support the urgency of investing in emission-efficient, equitable food systems that reduce hunger while minimizing environmental impact. This data-driven framework can guide sustainable agriculture strategies and climate-resilient development.
+
 ---
 
 ## 💼 OUTCOME
