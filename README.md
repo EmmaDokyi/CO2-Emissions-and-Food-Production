@@ -5,21 +5,21 @@
 
 ---
 
-## 🗂️ Project Background
+## 🗂️ PROJECT BACKGROUND
 
 This project explores the relationship between global food production and carbon dioxide (CO₂) emissions from 2001 to 2019. Using Power BI, data from 12 key food crops across multiple countries and continents were cleaned, transformed, and analyzed. The goal was to identify sustainability trends, regional disparities, and potential climate-smart agricultural models.
 
 ---
 
-## 📌 Executive Summary
+## 📝 EXECUTIVE SUMMARY
 
 Global food production and CO₂ emissions have both increased significantly over the past two decades. While food availability has expanded and undernourishment rates declined globally, this progress often came at the cost of rising emissions. The analysis uncovered top producers, most efficient countries, and major contributors to CO₂ emissions per capita — revealing opportunities for emission-efficient, equitable food systems.
 
 ---
 
-## 🛠️ Tools & Metrics
+## 🎯 Metrics
 
-- 🔧 **Data Preparation**: Power Query for cleaning and transformation  
+
 - 📈 **Metrics Created with DAX**:
   - **Total Food Production** – Quantity of 12 selected food crops per country
   - **Total CO₂ Emissions** – Annual emissions data per country and continent
@@ -29,7 +29,7 @@ Global food production and CO₂ emissions have both increased significantly ove
 
 ---
 
-## 📊 Key Insights
+## 📊 KEY INSIGHTS
 
 ### 🌐 **Global Trends (2001–2019)**
 - **China**: Largest CO₂ emitter  
@@ -40,55 +40,25 @@ Global food production and CO₂ emissions have both increased significantly ove
 
 ---
 
-## 🌍 Regional Highlights
+## ✅ CONCLUSIONS
 
-### 🌍 **Africa**
-- **South Africa**: Top emitter (total and per capita)  
-- **Nigeria**: Highest food producer  
-- **DR Congo**: Most efficient  
-- **Undernourishment** dropped from **25.52% to 19.78%**
+### Food production has grown globally — but not always equitably or sustainably
+While total food output increased, countries like DR Congo saw efficiency decline and undernourishment rise during the same period, showing that production alone doesn’t guarantee food security or improved livelihoods.
 
----
+### High CO₂ emissions don’t always correlate with high food output
+For instance, South Africa was a top CO₂ emitter in Africa but not the top food producer. This highlights inefficiencies and raises questions about emission-heavy practices with limited food return.
 
-### 🌏 **Asia**
-- **China**: Top emitter and producer  
-- **Saudi Arabia**: Highest per capita emitter  
-- **Myanmar**: Most efficient  
-- **Undernourishment** dropped from **17.06% to 9.99%**
+### Countries like Nigeria and Myanmar represent scalable models for climate-smart agriculture
+Nigeria led in food production with relatively low emissions per capita, while Myanmar showed strong efficiency. These cases demonstrate the potential for low-emission, high-output agriculture strategies.
 
----
+### CO₂ emissions and food production have risen in tandem — except in Europe and North America
+In Europe and parts of North America, food production continued while emissions either declined or stabilized, hinting at successful decoupling through technology, policy, or operational efficiency.
 
-### 🌍 **Europe**
-- **Russia**: Highest in total CO₂, production, and per capita emissions  
-- **Latvia**: Most efficient  
-- **Undernourishment** fell from **3.26% to 2.65%**  
-- **CO₂ emissions** showed a steady decline
+### Undernourishment has decreased globally, but regional disparities remain
+Africa’s undernourishment fell from ~25% to ~20%, while Asia made stronger progress. However, South America saw a reversal after initial gains — signaling that economic or political instability can undo sustainability gains.
 
----
-
-### 🌎 **North America**
-- **USA**: Top food producer and emitter  
-- **Trinidad & Tobago**: Highest per capita CO₂ emissions  
-- **Guatemala**: Most efficient  
-- **Undernourishment** fell from **13.76% to 10.08%**  
-- **Emissions** declined post-2014
-
----
-
-### 🌊 **Oceania**
-- **Australia**: Top producer, emitter, and per capita emitter  
-- **Fiji**: Most efficient  
-- **Food production** peaked in 2017 but declined overall  
-- **CO₂ emissions** increased slowly over time
-
----
-
-### 🌎 **South America**
-- **Brazil**: Highest CO₂ emitter and food producer  
-- **Venezuela**: Top per capita emitter  
-- **Paraguay**: Most efficient  
-- **Undernourishment** dropped to 6.14% by 2014, then rose to **9.14%** by 2019  
-- **CO₂ emissions** peaked in 2014, then declined
+### High per capita emitters often contribute little to global food supply
+Countries like Trinidad & Tobago and Saudi Arabia top the per capita CO₂ list but are not major food producers, suggesting a need for emission accountability in non-agricultural sectors as well.
 
 ---
 
