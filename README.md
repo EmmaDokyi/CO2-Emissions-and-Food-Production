@@ -1,4 +1,4 @@
-# 🌍 Global Food Production and CO₂ Emissions Analysis (2001–2019)
+# 🌍 Global Food Production and CO₂ Emissions Analysis: Efficiency and Undernourishment Trends (2001–2019)
 
 **Project Date:** May 2025  
 **Tools Used:** Power BI, Power Query, DAX
