@@ -46,7 +46,7 @@ Global food production and CO₂ emissions have both increased significantly ove
 While total food output increased, countries like DR Congo saw efficiency decline and undernourishment rise during the same period, showing that production alone doesn’t guarantee food security or improved livelihoods.
 
 ### High CO₂ emissions don’t always correlate with high food output
-For instance, South Africa was a top CO₂ emitter in Africa but not the top food producer. This highlights inefficiencies and raises questions about emission-heavy practices with limited food return.
+For instance, South Africa is the number one CO₂ emitter in Africa but not the top food producer. This highlights inefficiencies and raises questions about emission-heavy practices with limited food return.
 
 ### Countries like Nigeria and Myanmar represent scalable models for climate-smart agriculture
 Nigeria led in food production with relatively low emissions per capita, while Myanmar showed strong efficiency. These cases demonstrate the potential for low-emission, high-output agriculture strategies.
