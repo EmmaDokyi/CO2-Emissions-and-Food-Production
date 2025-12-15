@@ -21,11 +21,11 @@ Global food production and CO₂ emissions have both increased significantly ove
 
 
 - 📈 **Metrics Created with DAX**:
-  - **Total Food Production** – Quantity of 12 selected food crops per country
-  - **Total CO₂ Emissions** – Annual emissions data per country and continent
-  - **Efficiency Score** – Food produced per ton of CO₂ emitted
-  - **CO₂ Emissions per Capita** – Total CO₂ divided by population
-  - **Undernourishment Rate** – Share of population facing chronic hunger
+  - **Total Food Production** – Total quantity produced of the 12 selected food crops per country
+  - **Total CO₂ Emissions** – Annual CO₂ emissions per country and continent
+  - **Efficiency Score (Food per ton of CO₂)** – Total food production / total CO₂ emissions
+  - **CO₂ Emissions per Capita** – Total CO₂ emissions ÷ population
+  - **Undernourishment Rate** – Percentage of the population experiencing chronic hunger
 
 ---
 
